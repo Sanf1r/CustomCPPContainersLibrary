@@ -6,6 +6,8 @@ Tested on MacOS Big Sur 11.6.6.
 
 Made on May 20 2023 as part of my education in School 21 :)
 
+https://github.com/Sanf1r/CustomCPPContainersLibrary/assets/100280376/4f2751a8-f12b-488a-a497-d9af9ed1fc14
+
 ### Introduction
 
 This project implements library with the basic standard C++ container classes: `list`, `stack`, `queue`, `map`, `set`, `multiset`, `vector` and `array`. Implementations provide a full set of standard methods and attributes for element handling, container capacity checking and iteration.
